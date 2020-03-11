@@ -7,6 +7,9 @@
 Logs/
 build/
 
+#InteliJ/Pycharm IDE directory
+.idea/
+
 # vim swap files
 *.swp
 *.swo
